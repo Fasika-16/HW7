@@ -1,0 +1,15 @@
+.displayNone{
+ display: none;
+}
+.displayBlock{
+    display: block;
+}
+.marginSmall{
+    margin: 2.5% 5% 2.5% 5%;
+}
+.marginMedium{
+    margin: 5% 25% 5% 25%;
+}
+.center {  
+    text-align:center  
+}
